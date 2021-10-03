@@ -23,3 +23,29 @@
     border-radius: 10px;
     margin-bottom: 7px;
 }
+
+.Result {
+    font-size: 20px;
+    box-shadow: 5px 5px 5px #52154E;
+    background-color: #F9CFF2;
+    color: #32292F;
+}
+
+.copy_footer{
+    bottom: 0;
+    position: fixed;
+    background-color: #D5485D;
+    color: #BFF0D4;
+    line-height: 2;
+    font-size: 19px;
+    width: 100%;
+    text-align: center;
+    font-weight: 700;
+}
+
+canvas {
+    box-shadow: 5px 5px 5px #F3E37C;  
+    border: 4px solid #F61067; 
+    border-radius: 25px;
+    margin-top: 105px;
+}
